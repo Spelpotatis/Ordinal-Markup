@@ -358,11 +358,11 @@ const achieveData = [
       () => game.incrementy.gte("ee10"),
       () => game.incrementy.gte("eee10"),
       () => game.incrementy.gte(tenTetrTen),
-      () => false
-      () => false
-      () => false
-      () => false
-      () => false
+      () => false,
+      () => false,
+      () => false,
+      () => false,
+      () => false,
     ],
     name: [
       "Welcome to the E",
