@@ -382,11 +382,11 @@ const achieveData = [
       "Reach ee10 Incrementy",
       "Reach eee10 Incrementy",
       "Reach 10^^10 Incrementy",
-      "Reach Too Many Incrementy",
-      "Reach Too Many Incrementy",
-      "Reach Too Many Incrementy",
-      "Reach Too Many Incrementy",
-      "Reach Too Many Incrementy"
+      "Reach 10^^^10 Incrementy",
+      "Reach 10{10}10 Incrementy",
+      "Reach 10{100}10 Incrementy",
+      "Reach 10{1.8e308}10 Incrementy",
+      "Reach 10{10{10}10}10 Incrementy"
     ]
   }
 ]
