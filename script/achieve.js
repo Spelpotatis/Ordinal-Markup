@@ -362,7 +362,7 @@ const achieveData = [
       () => false,
       () => false,
       () => false,
-      () => false,
+      () => false
     ],
     name: [
       "Welcome to the E",
