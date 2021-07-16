@@ -14,7 +14,7 @@ const achieveData = [
       () => game.ord >= BHO*342
     ],
     name: [
-      "The start of the worst game ever",
+      "You gotta start somewhere",
       "Maximizable",
       "Markupable",
       "Hyperdimensional",
