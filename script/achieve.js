@@ -441,7 +441,7 @@ function checkAchieve() {
     "Get all of the sluggish milestones to unlock the next row of achivements",
     "Unlock Omega Challenges to unlock the next row of achivements",
     "Enter the Portal and have 90 achievements to unlock the next row of achievements",
-    "Next row of achievements is coming soon!",
+    "Get a fractal boost to unlock the next row of achievements",
     "You unlocked the last set of achievements. Now get them all to beat the game!"
   ][game.achieveRow.length]
 }
